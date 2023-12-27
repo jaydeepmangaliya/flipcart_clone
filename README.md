@@ -1,6 +1,8 @@
 # Flipkart Clone
 
 This is a simplified Flipkart clone project with HTML, CSS, and JavaScript.
+![Screenshot (136)](https://github.com/jaydeepmangaliya/flipcart_clone/assets/123927153/aab02b1a-c387-41ad-8473-8c623e95d461)
+
 
 ## Table of Contents
 
